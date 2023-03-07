@@ -15,7 +15,7 @@ React Native, Redux Toolkit, Google Maps, Google AutoComplete & Tailwind CSS
 
 | Select destination |    | Select ride |
 | --- | -- | --- |
-| <img src="./screenshots/screenshot_3.png" width="300"> |  | <img src="./screenshots/screenshot_4.png" width="300"> |
+| <img src="./screenshots/screenshot_3.png" width="300"> |  | <img src="./screenshots/screenshot_2.png" width="300"> |
 
 
 
