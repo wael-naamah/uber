@@ -1,10 +1,10 @@
 import React from 'react';
 
 import {Provider} from 'react-redux';
-import {store} from './app/store';
+import {store} from './src/store';
 import {SafeAreaProvider} from 'react-native-safe-area-context';
 import {NavigationContainer} from '@react-navigation/native';
-import RootNavigator from './app/navigator/RootNavigator';
+import RootNavigator from './src/navigator/RootNavigator';
 import {KeyboardAvoidingView, Platform} from 'react-native';
 
 function App(): JSX.Element {
